@@ -1,6 +1,6 @@
 # legal-info
 
-> ## Please Read this carefully, if you don't agree with one of the following points <br> you cannot use the bot.
+> ## Please Read this carefully, if you don't agree with one of the following points <br> you cannot use any of our services.
 
 
 ## table of content
